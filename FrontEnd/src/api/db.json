@@ -1,0 +1,224 @@
+{
+  "Products": [
+    {
+      "id": "1001",
+      "name": "iPhone",
+      "price": 80000,
+      "category": "electronics",
+      "model": "iPhone 13",
+      "manufacturer": "Apple",
+      "img": "https://m.media-amazon.com/images/I/61-r9zOKBCL._SX679_.jpg"
+    },
+    {
+      "id": "1002",
+      "name": "Samsung TV",
+      "price": 45000,
+      "category": "electronics",
+      "model": "Crystal 4K UHD",
+      "manufacturer": "Samsung",
+      "img": "https://m.media-amazon.com/images/I/71vZ8g7hZFL._SX679_.jpg"
+    },
+    {
+      "id": "1003",
+      "name": "Laptop",
+      "price": 65000,
+      "category": "electronics",
+      "model": "Inspiron 15",
+      "manufacturer": "Dell",
+      "img": "https://m.media-amazon.com/images/I/61GEizrmU9L._SX679_.jpg"
+    },
+    {
+      "id": "1004",
+      "name": "Headphones",
+      "price": 2500,
+      "category": "electronics",
+      "model": "WH-CH520",
+      "manufacturer": "Sony",
+      "img": "https://m.media-amazon.com/images/I/61CGHv6kmWL._SX679_.jpg"
+    },
+    {
+      "id": "1005",
+      "name": "Smart Watch",
+      "price": 7000,
+      "category": "electronics",
+      "model": "Galaxy Watch 4",
+      "manufacturer": "Samsung",
+      "img": "https://m.media-amazon.com/images/I/61EpQh8kTRL._SX679_.jpg"
+    },
+    {
+      "id": "1006",
+      "name": "Bluetooth Speaker",
+      "price": 3000,
+      "category": "electronics",
+      "model": "JBL Flip 5",
+      "manufacturer": "JBL",
+      "img": "https://m.media-amazon.com/images/I/71zfpkr4+YL._SX679_.jpg"
+    },
+    {
+      "id": "1007",
+      "name": "Gaming Mouse",
+      "price": 1500,
+      "category": "electronics",
+      "model": "G102",
+      "manufacturer": "Logitech",
+      "img": "https://m.media-amazon.com/images/I/61mpMH5TzkL._SX679_.jpg"
+    },
+    {
+      "id": "1008",
+      "name": "HP Laptop",
+      "price": 55000,
+      "category": "electronics",
+      "model": "Pavilion 14",
+      "manufacturer": "HP",
+      "img": "https://m.media-amazon.com/images/I/71f5Eu5lJSL._SX679_.jpg"
+    },
+    {
+      "id": "1009",
+      "name": "OnePlus Mobile",
+      "price": 35000,
+      "category": "electronics",
+      "model": "Nord CE 3",
+      "manufacturer": "OnePlus",
+      "img": "https://m.media-amazon.com/images/I/61amb0CfMGL._SX679_.jpg"
+    },
+    {
+      "id": "2001",
+      "name": "Makeup Kit",
+      "price": 1500,
+      "category": "beauty",
+      "img": "https://images.unsplash.com/photo-1596462502278-27bfdc403348"
+    },
+    {
+      "id": "2002",
+      "name": "Perfume",
+      "price": 1200,
+      "category": "beauty",
+      "img": "https://images.unsplash.com/photo-1615634260167-c8cdede054de"
+    },
+    {
+      "id": "2003",
+      "name": "Face Cream",
+      "price": 600,
+      "category": "beauty",
+      "img": "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb"
+    },
+    {
+      "id": "2004",
+      "name": "Lipstick Set",
+      "price": 800,
+      "category": "beauty",
+      "img": "https://images.unsplash.com/photo-1586495777744-4413f21062fa"
+    },
+    {
+      "id": "3001",
+      "name": "Dining Plate",
+      "price": 800,
+      "category": "home",
+      "img": "https://images.unsplash.com/photo-1604908176997-4314edb7a91c"
+    },
+    {
+      "id": "3002",
+      "name": "Wall Clock",
+      "price": 1200,
+      "category": "home",
+      "img": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c"
+    },
+    {
+      "id": "3003",
+      "name": "Office Chair",
+      "price": 7000,
+      "category": "home",
+      "img": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8"
+    },
+    {
+      "id": "3004",
+      "name": "Table Lamp",
+      "price": 1200,
+      "category": "home",
+      "img": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+    },
+    {
+      "id": "3005",
+      "name": "Bed Sheet",
+      "price": 900,
+      "category": "home",
+      "img": "https://images.unsplash.com/photo-1582582494700-1d0c9c2f0e0b"
+    },
+    {
+      "id": "4001",
+      "name": "Running Shoes",
+      "price": 3000,
+      "category": "fashion",
+      "img": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+    },
+    {
+      "id": "4002",
+      "name": "Men Watch",
+      "price": 2500,
+      "category": "fashion",
+      "img": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3"
+    },
+    {
+      "id": "4003",
+      "name": "Jeans",
+      "price": 1500,
+      "category": "fashion",
+      "img": "https://images.unsplash.com/photo-1542272604-787c3835535d"
+    },
+    {
+      "id": "4004",
+      "name": "T-Shirt",
+      "price": 700,
+      "category": "fashion",
+      "img": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab"
+    },
+    {
+      "id": "4005",
+      "name": "Backpack",
+      "price": 1200,
+      "category": "fashion",
+      "img": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c"
+    },
+    {
+      "id": "4006",
+      "name": "Sunglasses",
+      "price": 900,
+      "category": "fashion",
+      "img": "https://images.unsplash.com/photo-1511499767150-a48a237f0083"
+    }
+  ],
+  "Admin": [
+    {
+      "id": "1",
+      "name": "admin",
+      "email": "admin@capgemini.com",
+      "password": "admin123"
+    }
+  ],
+  "Carts": [
+    {
+      "id": "1",
+      "userId": "u1",
+      "cartItems": []
+    },
+    {
+      "id": "7f90",
+      "userId": "086f",
+      "cartItems": [
+        {
+          "productId": "1007",
+          "quantity": 1
+        },
+        {
+          "productId": "1003",
+          "quantity": 1
+        },
+        {
+          "productId": "1008",
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "Orders": []
+}

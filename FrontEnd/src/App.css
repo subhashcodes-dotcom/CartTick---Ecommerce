@@ -1,0 +1,23 @@
+/* App.css */
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--background);
+  color: var(--text-main);
+}
+
+.main-content {
+  flex: 1;
+}
+
+@media (max-width: 768px) {
+  .user-profile-grid {
+    display: flex !important;
+    flex-direction: column !important;
+  }
+  .user-profile-order-header {
+    flex-direction: column !important;
+    gap: 10px;
+  }
+}
