@@ -249,11 +249,23 @@ Full Stack Developer
 ---
 Images of Application
 <img width="959" height="491" alt="image" src="https://github.com/user-attachments/assets/d8cf3d7f-b3eb-4327-9526-a14b4514c029" />
+
+
 <img width="959" height="491" alt="image" src="https://github.com/user-attachments/assets/26918fda-5ca2-47c9-8ed2-34884863f581" />
+
+
 <img width="959" height="479" alt="image" src="https://github.com/user-attachments/assets/05de44d2-6f7e-4c47-b1cd-25937f13f20a" />
+
+
 <img width="959" height="500" alt="image" src="https://github.com/user-attachments/assets/6ec41ae1-fcab-4393-a7aa-c03bf45ac554" />
+
+
 <img width="947" height="494" alt="image" src="https://github.com/user-attachments/assets/a8b4c524-155c-4987-a661-d44a1971db01" />
+
+
 <img width="952" height="517" alt="image" src="https://github.com/user-attachments/assets/8a173137-2cd6-4d64-9ca9-f54e41ec387a" />
+
+
 <img width="958" height="495" alt="image" src="https://github.com/user-attachments/assets/6ba15f61-e112-4067-b9be-558f335e1cd9" />
 
 
